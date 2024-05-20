@@ -1,0 +1,5 @@
+Dependencies -
+    googlemaps
+    pandas
+
+# Install using pip install command followed by the dependencies 
